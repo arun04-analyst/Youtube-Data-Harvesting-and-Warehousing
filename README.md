@@ -1,12 +1,34 @@
 YOUTUBE HARVESTING AND WAREHOUSING
 
+Softwatr Requirements: 
+
+1. MySQL Server 8.0
+
+2. MySQL Workbench 8.0
+
+3. Microsoft Visual Studio
+
+4. Youtube API Key
+
+Installations Required in Microsoft Visual Studio Through Terminal:
+
+PIP INSTALL :
+
+1. Streamlit
+
+2. PANDAS
+
+3. Mysql.connector
+
+4. isodate
+
 DOMAIN: Social Media
 
 PROBLEM STATEMENT :
 
 YouTube Data Harvesting and Warehousing is a project that aims to allow users to access and analyze data from multiple YouTube channels. The project utilizes SQL and Streamlit to create a user-friendly application that allows users to retrieve, store, and query YouTube channel and video data
 
-TOOLS:
+SKILLS TAKEN AWAY :
 
 -Python Scripting
 
