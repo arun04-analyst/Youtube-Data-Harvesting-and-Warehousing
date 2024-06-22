@@ -1,6 +1,6 @@
 YOUTUBE HARVESTING AND WAREHOUSING
 
-Softwatr Requirements : 
+Software Requirements : 
 
 1. MySQL Server 8.0
 
