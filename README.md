@@ -1,11 +1,15 @@
 YOUTUBE HARVESTING AND WAREHOUSING
+
 DOMAIN:
+
 Social Media
 
 PROBLEM STATEMENT :
+
 YouTube Data Harvesting and Warehousing is a project that aims to allow users to access and analyze data from multiple YouTube channels. The project utilizes SQL and Streamlit to create a user-friendly application that allows users to retrieve, store, and query YouTube channel and video data
 
 TOOLS:
+
 -Python Scripting
 
 -API Integration
@@ -15,6 +19,7 @@ TOOLS:
 -Data Management using SQL
 
 ABOUT PROJECT
+
 1.Set up a Streamlit app:
 Streamlit is a great choice for building data visualization and analysis tools quickly and easily. You can use Streamlit to create a simple UI where users can enter a YouTube channel ID, view the channel details, and select channels to migrate to the data warehouse.
 
